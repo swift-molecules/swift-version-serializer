@@ -1,0 +1,4 @@
+module Ordinal {
+header "Ordinal-Swift.h"
+export *
+}

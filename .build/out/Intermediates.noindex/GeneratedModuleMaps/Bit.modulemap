@@ -1,0 +1,4 @@
+module Bit {
+header "Bit-Swift.h"
+export *
+}

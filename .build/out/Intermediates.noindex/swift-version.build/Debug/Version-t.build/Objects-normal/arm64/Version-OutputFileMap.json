@@ -1,0 +1,349 @@
+{
+  "" : {
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version-primary.dia",
+    "emit-module-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version-primary-emit-module.dia",
+    "pch" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version-primary.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Calendar+DebugDescription.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar+DebugDescription~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Calendar.Micro.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Calendar.Micro.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.Micro~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Calendar.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Calendar~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range+Algebra.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Algebra~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range+Description.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Description~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range+Semantic.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+Semantic~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range+SwiftRange.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range+SwiftRange~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range.Bound+Description.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound+Description~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range.Bound.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.Bound~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Range.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Range~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Bumped.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Bumped~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Identifier.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Identifier~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Major.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Major.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Major~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Minor.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Minor.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Minor~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Patch.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Patch.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Patch~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Phase+Description.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase+Description~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.Phase.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.Phase~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Semantic.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Semantic~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Set+Algebra.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Algebra~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Set+Description.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set+Description~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Set.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Set~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Major.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Major.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Major~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Minor.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Minor.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Minor~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Patch.Value.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.Value~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.Patch.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.Patch~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.Tools.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.Tools~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/Version.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/Version~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-version/Sources/Version/exports.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.dia",
+    "index-unit-output-path" : "/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-version.build/Debug/Version-t.build/Objects-normal/arm64/exports~partial.swiftmodule"
+  }
+}

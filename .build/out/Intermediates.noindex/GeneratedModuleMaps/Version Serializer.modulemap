@@ -1,0 +1,4 @@
+module Version_Serializer {
+header "Version Serializer-Swift.h"
+export *
+}

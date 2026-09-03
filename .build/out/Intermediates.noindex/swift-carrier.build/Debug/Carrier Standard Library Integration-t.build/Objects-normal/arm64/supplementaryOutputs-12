@@ -1,0 +1,30 @@
+{
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-carrier/Sources/Carrier Standard Library Integration/Int8+Carrier.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Int8+Carrier.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Int8+Carrier.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Int8+Carrier.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Int8+Carrier.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Int8+Carrier.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-carrier/Sources/Carrier Standard Library Integration/MutableRawSpan+Carrier.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableRawSpan+Carrier.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableRawSpan+Carrier.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableRawSpan+Carrier.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableRawSpan+Carrier.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableRawSpan+Carrier.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-carrier/Sources/Carrier Standard Library Integration/MutableSpan+Carrier.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableSpan+Carrier.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableSpan+Carrier.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableSpan+Carrier.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableSpan+Carrier.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/MutableSpan+Carrier.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-carrier/Sources/Carrier Standard Library Integration/Never+Carrier.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Never+Carrier.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Never+Carrier.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Never+Carrier.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Never+Carrier.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-carrier.build/Debug/Carrier Standard Library Integration-t.build/Objects-normal/arm64/Never+Carrier.swiftdeps"
+  }
+}

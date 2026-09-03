@@ -1,0 +1,4 @@
+module Version {
+header "Version-Swift.h"
+export *
+}

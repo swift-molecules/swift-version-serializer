@@ -1,0 +1,336 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-bit",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-bit.git",
+          "name" : "swift-bit"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "08ff87ced8478fc8385218093650d4727d960870"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-bit"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-byte",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-byte.git",
+          "name" : "swift-byte"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "3150be1c4aeaf2f5a05dcfe784edd82bd8f23e9d"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-byte"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-cardinal",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-cardinal.git",
+          "name" : "swift-cardinal"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "29bd8ab3537dd48d2f9b28bc8dec71c523636d3c"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-cardinal"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-carrier",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-carrier.git",
+          "name" : "swift-carrier"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "da4fca3a867619948a222ae00aef73657e135ea3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-carrier"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-comparison",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-comparison.git",
+          "name" : "swift-comparison"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "07aeed4125ea4db38663a06a97a681504d07b24b"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-comparison"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-either",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-either.git",
+          "name" : "swift-either"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "5f3a8996cd3c7da2250706fb5230b2456a5f5b31"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-either"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-equation",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-equation.git",
+          "name" : "swift-equation"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "5fd623c1036516352e10be12ebcf6bbaac51bae3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-equation"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-finite",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-finite.git",
+          "name" : "swift-finite"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "f9bbc2c826963c1660bf56d345b780727af09796"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-finite"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-hash",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-hash.git",
+          "name" : "swift-hash"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "d0af5e43ca7077736b2fb6d7720cec7ddd62f2eb"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-hash"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-index",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-index.git",
+          "name" : "swift-index"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "fc4d350908ed06fd18501709e50fc26464e56aa8"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-index"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-iterator",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-iterator.git",
+          "name" : "swift-iterator"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "cbefdcedbbd10df62bb5acd07a23a9b5ec92b120"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-iterator"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-ordinal",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-ordinal.git",
+          "name" : "swift-ordinal"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "55a8373d629a420b41e9927d7ed30ae7c84283b6"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-ordinal"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-ownership",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-ownership.git",
+          "name" : "swift-ownership"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "0b3ceae68d4a6c5afefba8a54ebaff3e233cfc4b"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-ownership"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-predicate",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-predicate.git",
+          "name" : "swift-predicate"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "863ffb81a138704f54c587c7cfdf6f42af64ccd9"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-predicate"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-property",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-property.git",
+          "name" : "swift-property"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "461859f39c5235aa1af4818cd20a76b572057224"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-property"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-serializer",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-serializer.git",
+          "name" : "swift-serializer"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "43afad9eec0de8d695e03346ed64016fa1056e08"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-serializer"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-tagged",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-tagged.git",
+          "name" : "swift-tagged"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "8801f81bb913f368e142de5acf463a91d9ed10f1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-tagged"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-time",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-time.git",
+          "name" : "swift-time"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "0f071bce79e81d9b73192d8d5612b16f638012f0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-time"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-version",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swift-atoms/swift-version.git",
+          "name" : "swift-version"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "f961191aa7da0c94fc4e0191d943b288d9d6f017"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-version"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

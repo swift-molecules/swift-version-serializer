@@ -1,0 +1,30 @@
+{
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-time/Sources/Time/Time.Microsecond.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Microsecond.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Microsecond.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Microsecond.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Microsecond.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Microsecond.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-time/Sources/Time/Time.Millisecond.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Millisecond.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Millisecond.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Millisecond.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Millisecond.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Millisecond.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-time/Sources/Time/Time.Minute.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Minute.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Minute.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Minute.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Minute.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Minute.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-time/Sources/Time/Time.Month.Day.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Month.Day.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Month.Day.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Month.Day.dia",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Month.Day.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-time.build/Debug/Time-t.build/Objects-normal/arm64/Time.Month.Day.swiftdeps"
+  }
+}

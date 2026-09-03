@@ -1,0 +1,4 @@
+module Cardinal_Carrier {
+header "Cardinal Carrier-Swift.h"
+export *
+}

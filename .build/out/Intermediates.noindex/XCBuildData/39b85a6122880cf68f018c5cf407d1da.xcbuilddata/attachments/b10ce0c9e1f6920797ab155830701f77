@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite-primary.dia",
+    "emit-module-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite-primary-emit-module.dia",
+    "pch" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite-primary.swiftdeps"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-finite/Sources/Finite/Finite.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.dia",
+    "index-unit-output-path" : "/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/Finite~partial.swiftmodule"
+  },
+  "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/checkouts/swift-finite/Sources/Finite/exports.swift" : {
+    "const-values" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.swiftconstvalues",
+    "dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.d",
+    "diagnostics" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.dia",
+    "index-unit-output-path" : "/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.o",
+    "llvm-bc" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.bc",
+    "object" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.o",
+    "swift-dependencies" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports.swiftdeps",
+    "swiftmodule" : "/Users/coen/Developer/coenttb/swift-institute/swift-molecules/swift-version-serializer/.build/out/Intermediates.noindex/swift-finite.build/Debug/Finite-t.build/Objects-normal/arm64/exports~partial.swiftmodule"
+  }
+}
