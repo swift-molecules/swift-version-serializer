@@ -1,4 +1,0 @@
-module Carrier {
-header "Carrier-Swift.h"
-export *
-}

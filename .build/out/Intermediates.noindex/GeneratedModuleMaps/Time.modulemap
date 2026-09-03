@@ -1,4 +1,0 @@
-module Time {
-header "Time-Swift.h"
-export *
-}

@@ -1,4 +1,0 @@
-module Serializer {
-header "Serializer-Swift.h"
-export *
-}

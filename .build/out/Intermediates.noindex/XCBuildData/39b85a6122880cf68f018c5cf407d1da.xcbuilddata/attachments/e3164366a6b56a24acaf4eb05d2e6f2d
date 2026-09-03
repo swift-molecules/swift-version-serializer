@@ -1,4 +1,0 @@
-module Tagged_Standard_Library_Integration {
-header "Tagged Standard Library Integration-Swift.h"
-export *
-}

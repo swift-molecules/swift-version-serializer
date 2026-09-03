@@ -1,4 +1,0 @@
-module Index {
-header "Index-Swift.h"
-export *
-}

@@ -1,4 +1,0 @@
-module Finite_Bounded {
-header "Finite Bounded-Swift.h"
-export *
-}

@@ -1,4 +1,0 @@
-module Finite {
-header "Finite-Swift.h"
-export *
-}

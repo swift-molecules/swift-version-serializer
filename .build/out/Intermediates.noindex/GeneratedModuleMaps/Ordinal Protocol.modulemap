@@ -1,4 +1,0 @@
-module Ordinal_Protocol {
-header "Ordinal Protocol-Swift.h"
-export *
-}

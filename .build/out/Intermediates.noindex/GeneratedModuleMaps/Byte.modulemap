@@ -1,4 +1,0 @@
-module Byte {
-header "Byte-Swift.h"
-export *
-}

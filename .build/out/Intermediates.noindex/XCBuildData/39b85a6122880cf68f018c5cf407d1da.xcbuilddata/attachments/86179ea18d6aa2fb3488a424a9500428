@@ -1,4 +1,0 @@
-module Cardinal {
-header "Cardinal-Swift.h"
-export *
-}

@@ -1,4 +1,0 @@
-module Carrier_Protocol {
-header "Carrier Protocol-Swift.h"
-export *
-}

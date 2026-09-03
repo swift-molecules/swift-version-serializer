@@ -1,4 +1,0 @@
-module Finite_Capacity {
-header "Finite Capacity-Swift.h"
-export *
-}
